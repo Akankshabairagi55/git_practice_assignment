@@ -1,3 +1,4 @@
+
 let one=2;
 let two=4;
 let three=5;
@@ -7,3 +8,4 @@ let five=5;
  let sum1=one+two+three;
  sum2=four+five;
  console.log(sum1>sum2);
+
