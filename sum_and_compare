@@ -1,0 +1,9 @@
+let one=3, two=4, three=7, four=8, five=2;
+    sum1 = one + two + three;
+    sum2 = four + five;
+    if(sum1 > sum2 ){
+        console.log("true");
+    }
+    else{
+        console.log("false");
+    }
